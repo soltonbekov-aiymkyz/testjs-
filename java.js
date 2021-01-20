@@ -47,8 +47,8 @@ alert( "you've earned " + points + "  points" );
 
 
 
-let answer6 = prompt("  my name is  ? ");
-if (answer6 ===   "" )
+let answer6 = prompt("  when born k.Jirack  ? ");
+if (answer6 ===   "1894" )
  {
     points = points + 5;
 }
