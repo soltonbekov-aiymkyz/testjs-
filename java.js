@@ -1,0 +1,45 @@
+
+/*
+let points = 0;
+let answer1 = prompt("what is the president kyrgyz respulic? ");
+if (answer1 === "Sadyr Zhaparov" ) {
+    points = points + 5;
+}
+console.log( "you've earned " + points + "  points" );
+*/
+/*
+let points = 0;
+let answer2 = prompt("how many people live in Karakol? ");
+if (answer2 === "140000" ) {
+    points = points + 5;
+}
+alert( "you've earned " + points + "  points" );
+*/
+ /*
+let points = 0;
+let answer3 = prompt("how many materik  was in the world ? ");
+if (answer3 === "2" ) {
+    points = points + 10;
+}
+alert( "you've earned " + points + "  points" );
+*/
+/*
+let points = 0;
+let answer3 = prompt("  breeze formula ? ");
+if (answer3 ===   "2", "13" )
+ {
+    points = points + 10;
+}
+alert( "you've earned " + points + "  points" );
+*/
+
+
+/*
+let points = 0;
+let answer3 = prompt("  breeze formula ? ");
+if (answer3 ===   "" )
+ {
+    points = points + 5;
+}
+alert( "you've earned " + points + "  points" );
+*/
