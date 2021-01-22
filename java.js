@@ -92,9 +92,9 @@ if (answer11 ===   " tomas djeferson " )
 alert ( "you've earned " + points + "  points" );
 
 
-//let answer 8 
-let answer8 = prompt(" who is the world champion of judo  ? ");
-if (answer8 ===   " khaltmaidin  Batulga  " )
+//let answer 12
+let answer12 = prompt(" who is the world champion of judo  ? ");
+if (answer12 ===   " khaltmaidin  Batulga  " )
  {
     points = points + 5;
 }
