@@ -62,21 +62,17 @@ if (answer8 ===   " khaltmaidin  Batulga  " )
 }
 alert ( "you've earned " + points + "  points" );
 
-
-
-
 //let answer 9
-let answer7 = prompt(" hydrogen fomula   ? ");
-if (answer7 ===   " h20" )
+let answer9 = prompt(" hydrogen fomula   ? ");
+if (answer9 ===   " h20" )
  {
     points = points + 5;
 }
-alert ( "you've earned " + points + "  points" );
-
+alert ( "you've earned " + points + "  points" )
 
 //let answer 10 
-let answer8 = prompt("   ? ");
-if (answer8 ===   " khaltmaidin  Batulga  " )
+let answer10 = prompt(" who fought Byzantium in 1340  ? ");
+if (answer10 ===   " persia   " )
  {
     points = points + 5;
 }
