@@ -36,9 +36,7 @@ if (answer5 === "2" ) {
 }
 alert( "you've earned " + points + "  points" );
 
-
-
-
+//question 6
 
 let answer6 = prompt("  when born k.Jirack  ? ");
 if (answer6 ===   "1894" )
