@@ -21,8 +21,6 @@ if (answer3 ===   " 1884 " )
 }
 alert( "you've earned " + points + "  points" );
 
-
-
 //question 4
 let answer4 = prompt("  my name is  ? ");
 if (answer4 ===   "" )
@@ -31,11 +29,7 @@ if (answer4 ===   "" )
 }
 alert( "you've earned " + points + "  points" );
 
-
-
-
-
-
+//question 5
 let answer5 = prompt("how many materik  was in the world ? ");
 if (answer5 === "2" ) {
     points = points + 10;
