@@ -23,7 +23,7 @@ alert( "you've earned " + points + "  points" );
 
 
 
-//let points = 0;
+//question 4
 let answer4 = prompt("  my name is  ? ");
 if (answer4 ===   "" )
  {
