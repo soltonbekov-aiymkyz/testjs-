@@ -92,15 +92,18 @@ if (answer11 ===   " kyrgyz kaganaty " )
 alert ( "you've earned " + points + "  points" );
 
 
-//let answer 12
-let answer12 = prompt(" ? ");
-if (answer12 ===   " khaltmaidin  Batulga  " )
- {
-    points = points + 5;
+
+/*
+const KG_INDEPENDED_YEAR = 1991;
+let year= prompt("what is independed day kyrgyzstan?"  );
+if (year < KG_INDEPENDED_YEAR  ){
+console.log("too early !");
 }
-alert ( "you've earned " + points + "  points" );
-
-
-
-
+ else if ( year >  KG_INDEPENDED_YEAR  ){
+console.log("too late  ");
+}
+else {
+    console.log("exacktly ");
+    }
+*/
 
