@@ -84,8 +84,8 @@ alert ( "you've earned " + points + "  points" );
 
 
 //let answer 11
-let answer11 = prompt(" first president of America  ? ");
-if (answer11 ===   " tomas djeferson " )
+let answer11 = prompt("  who fought Ordo-Balyk in 840 ? ");
+if (answer11 ===   " kyrgyz kaganaty " )
  {
     points = points + 5;
 }
@@ -93,7 +93,7 @@ alert ( "you've earned " + points + "  points" );
 
 
 //let answer 12
-let answer12 = prompt(" who is the world champion of judo  ? ");
+let answer12 = prompt(" ? ");
 if (answer12 ===   " khaltmaidin  Batulga  " )
  {
     points = points + 5;
