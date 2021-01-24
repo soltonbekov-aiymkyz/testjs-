@@ -24,7 +24,7 @@
 
 */
 
-
+/*
 let  mamleket  = prompt("1999 dan 2005 jylga cheiin kendji kaisy mamlekette bolgon")
 switch (mamleket) {
      case "kyrgyz":
@@ -50,9 +50,32 @@ switch (mamleket) {
 
        break;
 }
+*/
+
+/*
+let unit = prompt("tochka zamerzanie body ? bbedite edinisu izmereniya:" )
+let temprature = prompt ("vvedite gradus:");
+if (unit == "C" && temprature == 0)  {
+     console.log("pravilno")
+    }
+    else if   (unit == "k" && temprature == 273) {
+            console.log("pravilno")
+    }
+*/
+
+
+let example = prompt("  bishkek capital of ? ");
+if (example ==   " kyrgyzstan "  || example == "kirgiziya" || example == "kirgiz" ){
+console.log ("yes")
+ }
+    else {
+        console.log("no ");
+        }
 
 
 
 
-
-
+        let country = prompt("na kakom  stranu hotite uznat ctolisu");
+        
+        
+        
