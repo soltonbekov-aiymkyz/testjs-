@@ -101,5 +101,16 @@ console.log ("yes")
        break;
 }
         */
-       
+
         
+let place = prompt("were born Kendji ? bbedite place:" )
+let year = prompt ("vvedite year:");
+if (place == "france" || year == "1980")  {
+     console.log("pravilno")
+    }
+    else if   (place == "french" || year == "1981") {
+            console.log("pravilno")
+    }
+    else {
+        console.log("no ");
+        }
