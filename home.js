@@ -63,19 +63,43 @@ if (unit == "C" && temprature == 0)  {
     }
 */
 
-
-let example = prompt("  bishkek capital of ? ");
-if (example ==   " kyrgyzstan "  || example == "kirgiziya" || example == "kirgiz" ){
+/*
+let example = prompt("  where born kendji ? ");
+if (example ==   "france "  || example == "french" || example == "worth french" ){
 console.log ("yes")
  }
     else {
         console.log("no ");
         }
+*/
 
 
-
-
+/*
         let country = prompt("na kakom  stranu hotite uznat ctolisu");
-        
-        
+      switch (country) {
+     case "kyrgyz":
+     case "kyrgyzstan":
+     case "kyrgyzrespublick":
+      case "kirgiz":
+          console.log("bishkek")
+       break;
+
+       case "russkii":
+       case "russia":
+        console.log("moskva")
+        break;
+
+        case "english":
+        case "england":
+        console.log("london")
+        break;
+
+       default:
+
+       console.log("my ne znaem takoi strany");
+
+       break;
+}
+        */
+       
         
